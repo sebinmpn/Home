@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/christy/ESP_32/projects/Terase_Control_Unit/Light_Control/LT_Control_server2.0.1cpp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
