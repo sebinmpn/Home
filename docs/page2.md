@@ -2,9 +2,7 @@
 
 The project aim is to develope a prototype of a fully automated modular hydroponics system specially designed for urban areas.
 
-## Introduction
 
-This project is designed to [solve a problem or fulfill a purpose]. It helps users by providing [specific features or functionalities].
 
 ## Control Variables
 
