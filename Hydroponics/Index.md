@@ -24,7 +24,7 @@ The project aim is to develope a prototype of a fully automated modular hydropon
 - optimal PH range for hydroponic crops is usually between 5.5 and 6 .
 - "PH up" and "PH down" are the process used to maintain the PH level.
 - PH up - Decreasing Alkaline level by adding substance which have acidic properties
-(eg; Phosphoric acid (H₃PO₄) and Sulfuric acid (H₂SO₄). )
+eg; Phosphoric acid (H₃PO₄) and Sulfuric acid (H₂SO₄). 
 
 - PH Down - Decreasing Acidic level by adding substance which have Alkaline properties
 (eg; Potassium Hydroxide (KOH) and Sulfuric acid (NaHCO₃). )
