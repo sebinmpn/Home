@@ -10,14 +10,13 @@ The project aim is to develope a prototype of a fully automated modular hydropon
 1. Nutreint Variation - Nutreint balance should be accurate.
 2. Water cycle - Proper water cycle for nutreint delivery with precise timing and measurement (PH & EC).
 3. Light & Temperature - should be optimal for photosynthesis.
-4. Air circulation - Proper oxygen cycle for aeobic respiration.
 
 
 ## KEY FACTORS
 
 #### PH Level -
 -  PH is critical because it affects the supply of nutrients for plant growth.
-- optimal PH range for hydroponic crops is usually between 5.5 and 6 .
+- optimal PH range for hydroponic crops is usually between 5.5 and 6.5.
 - "PH up" and "PH down" are the process used to maintain the PH level.
 - PH up - Decreasing Alkaline level by adding substance which have acidic properties
     - eg; Phosphoric acid (H₃PO₄) and Sulfuric acid (H₂SO₄). 
@@ -26,10 +25,13 @@ The project aim is to develope a prototype of a fully automated modular hydropon
     - eg; Potassium Hydroxide (KOH) and Sulfuric acid (NaHCO₃). 
         
 
-<img src="https://github.com/sebinmpn/Home/blob/main/Hydroponics/Assets/PH%20level.drawio.png" alt="Hydroponics System" width="400"/>
+<img src="./PH level.drawio.png" alt="Hydroponics System" width="400"/>
 <img src="https://hydrohowto.com/wp-content/uploads/2020/11/ph-hydroponics-solution-nutrient-availability.gif" alt="PH and Nutrient table" width="500"/>
 
 
+```Sensors
+PH sensor - 
+```
 ### EC Level -
 Electrical Conductivity (EC) measures the ability of a solution to conduct electricity, which correlates to the concentration of nutrients in the solution.
 
@@ -64,3 +66,8 @@ Plants require oxygen for aerobic respiration, a process that converts glucose p
     - Areation methods like bubles or periodic water circularion.
 
 ### Light intensity -
+- The plant growth is limited by the rate of photosynthesis. Light cycle is crucial for photosynthesis.
+    - Blue light (400-500 nm) - vegetative growth. 
+    - Red light (600-700 nm) - Flowering and fruit growth.
+- The grow light consist of various LED Combinations (RGB).
+- Light intensity is seted based on the grow satge requirment and plant type.
