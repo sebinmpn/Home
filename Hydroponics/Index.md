@@ -25,7 +25,7 @@ The project aim is to develope a prototype of a fully automated modular hydropon
     - eg; Potassium Hydroxide (KOH) and Sulfuric acid (NaHCO₃). 
         
 
-<img src="./PH level.drawio.png" alt="Hydroponics System" width="400"/>
+<img src="https://github.com/sebinmpn/Home/blob/main/Hydroponics/Assets/PH%20level.drawio.png" alt="Hydroponics System" width="400"/>
 <img src="https://hydrohowto.com/wp-content/uploads/2020/11/ph-hydroponics-solution-nutrient-availability.gif" alt="PH and Nutrient table" width="500"/>
 
 
