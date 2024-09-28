@@ -10,7 +10,7 @@ The project aim is to develope a prototype of a fully automated modular hydropon
 1. Nutreint Variation - Nutreint balance should be accurate.
 2. Water cycle - Proper water cycle for nutreint delivery with precise timing and measurement (PH & EC).
 3. Light & Temperature - should be optimal for photosynthesis.
-
+4. Oxygen cycle - proper oxygen cycle for aerobic respiration.
 
 ## KEY FACTORS
 
