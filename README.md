@@ -3,6 +3,14 @@ Home automation
 
 Macro and Micronutrients:  essential nutrients like nitrogen, phosphorus, potassium (NPK), and micronutrients (iron, magnesium, etc.). 
 
+Nutrient Composition:
+
+Macronutrients: Essential nutrients like Nitrogen (N), Phosphorus (P), and Potassium (K) are the most important.
+Nitrogen: Promotes leaf growth. Important for leafy vegetables like lettuce, spinach, and herbs.
+Phosphorus: Key for root development and flowering, especially for fruit-bearing plants like tomatoes and peppers.
+Potassium: Enhances the overall health of the plant, helping in disease resistance and fruit development.
+Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper (Cu), and Molybdenum (Mo). These trace elements are crucial for plant enzyme functions.
+
 pH Control: Since pH affects nutrient availability, of ideal pH ranges for different plants (typically 5.5–6.5) 
 
 Water Chemistry:  using filters or reverse osmosis systems to purify water, as poor water quality can introduce harmful elements (chlorine, heavy metals) into the system.
@@ -14,6 +22,40 @@ Air Quality: Pollutants or toxins in the air can affect plant health. Proper ven
 Water Quality: The quality of water (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
 
 ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity). 
+
+Artificial Chemicals
+Ammonium Nitrate (NH₄NO₃) and Calcium Nitrate (Ca(NO₃)₂) are often used for nitrogen supplementation.
+Monopotassium Phosphate (KH₂PO₄) is widely used for phosphorus and potassium.
+
+
+Plants require about 14-18 hours of light a day, depending on species. Use full-spectrum LEDs (in the 400-700 nm range) to mimic sunlight. Blue light (450-495 nm) supports vegetative growth, while red light (620-750 nm) encourages flowering and fruiting.
+
+Use reverse osmosis (RO) or distilled water to ensure that the base water is free from impurities, which could interfere with nutrient uptake. Tap water often contains chlorine, fluorine, or calcium that may skew nutrient levels.
+
+Use low-impact pesticides like Bacillus thuringiensis (Bt) for caterpillar control.
+Different plants have varying temperature preferences. For example, lettuce thrives at lower temperatures (18-22°C), while tomatoes need higher warmth (24-30°C). Maintaining humidity at 50-70% will help prevent stress in most plants.
+
+artifical 
+Imidacloprid: A systemic insecticide effective against a wide range of pests, including aphids, whiteflies, and leafhoppers. It interferes with the nervous system of insects, leading to paralysis and death.
+Spinosad: A naturally derived but chemically processed pesticide that targets caterpillars, thrips, and leafminers. It affects the insect’s nervous system, causing death after ingestion.
+Azadirachtin: A more refined version of neem oil, this insect growth regulator disrupts the molting process in insects, affecting caterpillars, beetles, and leafminers.
+Sulfur: Used as a fungicide and miticide, sulfur helps control fungal diseases like powdery mildew and also works against mites.
+
+
+https://generalhydroponics.com/products/prevasyn/
+
+
+organics 
+Neem Oil: Derived from the neem tree, it's an effective treatment against aphids, mites, whiteflies, and other soft-bodied insects. It works as both a repellent and disruptor of insect feeding and reproduction.
+Insecticidal Soap: A soap-based solution that targets soft-bodied pests like aphids, thrips, and spider mites by disrupting their cell membranes, causing dehydration.
+Diatomaceous Earth: A fine powder made from fossilized algae, which damages the exoskeletons of insects like ants, cockroaches, and fleas, causing them to dehydrate and die.
+Pyrethrin: Extracted from chrysanthemum flowers, it is used to control pests like aphids, whiteflies, and leafhoppers. It affects the nervous system of insects but breaks down quickly in sunlight, making it less harmful to the environment.
+Bacillus thuringiensis (Bt): A naturally occurring bacterium that targets caterpillars and larvae of moths and butterflies. It infects the insect's gut, leading to death after ingestion.
+Beauveria bassiana: A fungal biopesticide that infects and kills various insects like aphids, thrips, and whiteflies through fungal spores that penetrate the insect’s body and spread throughout.
+
+
+
+
 
 
 Type of crops Name of the crops
@@ -100,5 +142,10 @@ Late Blight of Tomato - Mancozeb 35EC 5 g/L or Mancozeb 75WG 2 g/L, Famoxadone 1
 + Mancozeb 64WP (Moximate) 3 g/L, Famoxadone 16.6% + Cymoxanil 22.1SC (Equation Pro) 1
 ml/L, Metalaxyl M 3.3% + Chlorothalonil 33.1SC (Folio
 Gold) 2 g/L, Azoxystrobin 23SC 1 ml/L water
+
+
+
+
+
 
 
