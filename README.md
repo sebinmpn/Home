@@ -11,11 +11,11 @@ Phosphorus: Key for root development and flowering, especially for fruit-bearing
 Potassium: Enhances the overall health of the plant, helping in disease resistance and fruit development.
 Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper (Cu), and Molybdenum (Mo). These trace elements are crucial for plant enzyme functions.
 
-pH Control: Since pH affects nutrient availability, of ideal pH ranges for different plants (typically 5.5–6.5) 
+- pH Control: Since pH affects nutrient availability, of ideal pH ranges for different plants (typically 5.5–6.5) 
 
-Water Chemistry:  using filters or reverse osmosis systems to purify water, as poor water quality can introduce harmful elements (chlorine, heavy metals) into the system.
+- Water Chemistry:  using filters or reverse osmosis systems to purify water, as poor water quality can introduce harmful elements (chlorine, heavy metals) into the system.
 
-CO2: Carbon dioxide is essential for photosynthesis. An enclosed hydroponic system may require CO2 supplementation for optimal growth.
+- CO2: Carbon dioxide is essential for photosynthesis. An enclosed hydroponic system may require CO2 supplementation for optimal growth.
 
 Air Quality: Pollutants or toxins in the air can affect plant health. Proper ventilation should be incorporated into the system to maintain air quality.
 
