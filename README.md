@@ -21,9 +21,11 @@ Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper 
 
 - Water Quality: The quality of water (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
 
-- ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity). 
-| make     |  a           |
-:----------:--------------:
+- ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity).
+
+
+|  make     |  a         |
+| ----------|-------------|
 |   table  | like this    |
 
 Artificial Chemicals
