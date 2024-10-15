@@ -23,7 +23,7 @@ Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper 
 
 - ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity).
 
-### put subheding
+### put subheading
 
 |  make     |  a         |
 | ----------|-------------|
