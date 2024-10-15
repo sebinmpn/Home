@@ -23,10 +23,12 @@ Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper 
 
 - ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity).
 
+### put subheding
 
 |  make     |  a         |
 | ----------|-------------|
 |   table  | like this    |
+
 
 Artificial Chemicals
 Ammonium Nitrate (NH₄NO₃) and Calcium Nitrate (Ca(NO₃)₂) are often used for nitrogen supplementation.
