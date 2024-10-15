@@ -17,11 +17,13 @@ Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper 
 
 - CO2: Carbon dioxide is essential for photosynthesis. An enclosed hydroponic system may require CO2 supplementation for optimal growth.
 
-Air Quality: Pollutants or toxins in the air can affect plant health. Proper ventilation should be incorporated into the system to maintain air quality.
+- Air Quality: Pollutants or toxins in the air can affect plant health. Proper ventilation should be incorporated into the system to maintain air quality.
 
-Water Quality: The quality of water (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
+- Water Quality: The quality of water (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
 
-ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity). 
+- ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity). 
+| make   |  a    |
+|   table  | like this    |
 
 Artificial Chemicals
 Ammonium Nitrate (NH₄NO₃) and Calcium Nitrate (Ca(NO₃)₂) are often used for nitrogen supplementation.
