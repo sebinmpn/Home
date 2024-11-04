@@ -19,15 +19,16 @@ Micronutrients: Include Iron (Fe), Manganese (Mn), Zinc (Zn), Boron (B), Copper 
 
 - Air Quality: Pollutants or toxins in the air can affect plant health. Proper ventilation should be incorporated into the system to maintain air quality.
 
-- Water Quality: The quality of water (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
+- Water Quality: Water quality (free from harmful chemicals like chlorine or heavy metals) is critical. Pre-filtration systems can help ensure the water is suitable for plant growth.
 
 - ideal temperature and humidity ranges for your plants (usually between 18-25°C, with 40-60% humidity).
 
-### put subheading
-
-|  make     |  a         |
-| ----------|-------------|
-|   table  | like this    |
+ok
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+|          | Data     | More Data|
+|          | Data     | More Data|
+|          | Data     | More Data|
 
 
 Artificial Chemicals
@@ -35,30 +36,28 @@ Ammonium Nitrate (NH₄NO₃) and Calcium Nitrate (Ca(NO₃)₂) are often used 
 Monopotassium Phosphate (KH₂PO₄) is widely used for phosphorus and potassium.
 
 
-Plants require about 14-18 hours of light a day, depending on species. Use full-spectrum LEDs (in the 400-700 nm range) to mimic sunlight. Blue light (450-495 nm) supports vegetative growth, while red light (620-750 nm) encourages flowering and fruiting.
+Depending on the species, plants require about 14-18 hours of light a day. Use full-spectrum L.E.D.s (400-700 nm) to mimic sunlight. Blue light (450-495 nm) supports vegetative growth, while red light (620-750 nm) encourages flowering aplant's overall healthsmosis (R.O.) or distilled water to ensure the base water is free from impurities, which could interfere with nutrient uptake. Tap water often contains chlorine, fluorine, or calcium that may skew nutrient levels.
 
-Use reverse osmosis (RO) or distilled water to ensure that the base water is free from impurities, which could interfere with nutrient uptake. Tap water often contains chlorine, fluorine, or calcium that may skew nutrient levels.
-
-Use low-impact pesticides like Bacillus thuringiensis (Bt) for caterpillar control.
+Low-impact pesticides like Bacillus thuringiensis (Bt) can be used for caterpillar control.
 Different plants have varying temperature preferences. For example, lettuce thrives at lower temperatures (18-22°C), while tomatoes need higher warmth (24-30°C). Maintaining humidity at 50-70% will help prevent stress in most plants.
 
 artifical 
-Imidacloprid: A systemic insecticide effective against a wide range of pests, including aphids, whiteflies, and leafhoppers. It interferes with the nervous system of insects, leading to paralysis and death.
-Spinosad: A naturally derived but chemically processed pesticide that targets caterpillars, thrips, and leafminers. It affects the insect’s nervous system, causing death after ingestion.
+Imidacloprid: A systemic insecticide effective against many pests, including aphids, whiteflies, and leafhoppers. It interferes with the nervous system of insects, leading to paralysis and death.
+Spinosad: A naturally derived but chemically processed pesticide that targets caterpillars, thrips, and leafminers. It affects the inseinsectisvous system, causing death after ingestion.
 Azadirachtin: A more refined version of neem oil, this insect growth regulator disrupts the molting process in insects, affecting caterpillars, beetles, and leafminers.
-Sulfur: Used as a fungicide and miticide, sulfur helps control fungal diseases like powdery mildew and also works against mites.
+Sulfur: As a fungicide and miticide, sulfur helps control fungal diseases like powdery mildew and works against mites.
 
 
 https://generalhydroponics.com/products/prevasyn/
 
 
 organics 
-Neem Oil: Derived from the neem tree, it's an effective treatment against aphids, mites, whiteflies, and other soft-bodied insects. It works as both a repellent and disruptor of insect feeding and reproduction.
-Insecticidal Soap: A soap-based solution that targets soft-bodied pests like aphids, thrips, and spider mites by disrupting their cell membranes, causing dehydration.
+Neem Oil: Derived from the neem tree, it's an eit'stive treatment against aphids, mites, whiteflies, and other soft-bodied insects. It works as both a repellent and disruptor of insect feeding and reproduction.
+Insecticidal Soap: A soap-based solution that targets soft-bodied pests like aphids, thrips, and spider mites by disrupting their cell membranes and causing dehydration.
 Diatomaceous Earth: A fine powder made from fossilized algae, which damages the exoskeletons of insects like ants, cockroaches, and fleas, causing them to dehydrate and die.
-Pyrethrin: Extracted from chrysanthemum flowers, it is used to control pests like aphids, whiteflies, and leafhoppers. It affects the nervous system of insects but breaks down quickly in sunlight, making it less harmful to the environment.
-Bacillus thuringiensis (Bt): A naturally occurring bacterium that targets caterpillars and larvae of moths and butterflies. It infects the insect's gut, leading to death after ingestion.
-Beauveria bassiana: A fungal biopesticide that infects and kills various insects like aphids, thrips, and whiteflies through fungal spores that penetrate the insect’s body and spread throughout.
+Pyrethrin: Extracted from chrysanthemum flowers, it controls pests like aphids, whiteflies, and leafhoppers. It affects the nervous system of insects but breaks down quickly in sunlight, making it less harmful to the environment.
+Bacillus thuringiensis (Bt): A naturally occurring bacterium that targets caterpillars and larvae of moths and butterflies. It infects the insect's insect'sding to death after ingestion.
+Beauveria bassiana: A fungal biopesticide that infects and kills various insects like aphids, thrips, and whiteflies through fungal spores that penetrate the insect’s insect's spread throughout.
 
 
 
@@ -71,16 +70,16 @@ Fruits Strawberry
 Vegetables Tomato, Chilli, Brinjal, Green bean, Beet, Winged bean, Bell
 pepper, Cabbage, Cauliflower, Cucumbers, Melons, Radish, Onion
 Leafy vegetables Lettuce, Kang Kong
-Condiments Parsley, Mint, Sweet basil, Oregano
+Condiments: Parsley, Mint, Sweet basil, Oregano
 Flower crops Marigold, Roses, Carnations, Chrysanthemum
-Medicinal crops Indian Aloe, Coleus
+Medicinal crops: Indian Aloe, Coleus
 Fodder crops Sorghum, Alfalfa, Barley, Bermuda grass, Carpet grass
 
 
 
 In Hydroponic systems, usually, the liquid or solid medium is not as capable at buffering
 the nutrients in the system as soil would be and is therefore much more susceptible to the
-rapid changes in the nutrient levels. It is therefore that careful monitoring of the nutrient
+rapid changes in the nutrient levels. It is consequently that careful monitoring of the nutrient
 level is required in such a system while this can easily be automated. Two very different
 aspects of nutrition of the plant i. e. the supply of nutrients from the nutrient delivery
 system and the plant nutrient response are needed to be considered.
@@ -95,9 +94,9 @@ KH2PO4 P, K Corrects phosphorus
 deficiency
 Magnesium sulfate
 MgSO4 S, Mg Cheap, highly soluble, pure salt
-Iron chelate Fe Cit Best sources of iron
+Iron chelate Fe Cit is the Best source of iron
 Boric acid
-H3BO3 B Best source of boron
+H3BO3 B is the Best source of boron
 Calcium nitrate
 Ca(NO3)2 N, Ca Very soluble salt
 
@@ -111,8 +110,8 @@ Tomato
 It is a very popular greenhouse
 soil-less vegetable crop, which can be
 grown round the year inside greenhouse.
-4he night temperature range 16-22°C is the
-most critical factor for the tomato fruit
+4he night temperature range of 16-22°C is the
+a most critical factor for the tomato is the fruit
 setting. 
 
 The ideal temperature range is 16-
@@ -121,22 +120,21 @@ and cluster types are two major tomato
 varieties transplanted in the month of
 August-September for Indian condition. 
 
-28-30 days old seedlings are transplanted atthe spacing of 60x50cm, with plantingdensity of about 2000 plants for 1000 m² drip
-fertigated greenhouse. Three seedlings canbe transplanted in one meter long soil-less grow bag filled with cocopeat, perlite, vermiculite, tuff or mixture of
-above. Greenhouse grown tomatoes needs regular trellising, training and pruning of plants. One single main stem
+28-30 days old see have transplanted at treated at the spacing of 60x50cm, with a planting density of about 2000 plants for a 1000 m² drip
+fertigated greenhouse. Threesee cann bes can be transplanted meter meter-long soil-less grow bag filled with cocopeat, perlite, vermin, Alita e, tuff or mixture of
+the above. Greenhouse-grown tomatoes need regular trellising, training, and pruning of plants. One single main stem
 is retained by removing all side shoots or suckers that develop between leaf petioles and the stems. Greenhouse
-grown tomato requires pollination inside greenhouse, which is usually provided either by Bumble bees or by
-vibrators. Drip irrigation requirement varies from 2-8 m³/day/1000m².
+grown tomato requires pollination inside greenhouse, which is usually provided by Greenhouse-grown bees or by
+vibrators. Drip irrigation on requirement varies from 2-8 m³/day/1000m².
 
  The fertigation requirement varies from N
 80-150 ppm, P50-60 ppm and K 100-180 ppm for the major nutrient applies for different growth stages of the crop.
-Greenhouse tomato yield varied from 150-200 t and 200-300 t/ha, respectively for cherry tomato and slicing type
-big tomato. 
+Greenhouse tomatoes have varied fnutrients2that apply different crop growth stagesomato and slicing-type
+of big tomatoes. 
 
-It tolerates saline water up to 3 dS/m (mmhos/cm) and fertigation pH in the range of (5.5-5.8) is found
-to be ideal. It is found to be highly sensitive to calcium deficiency resulting in Blossom End Rot (BER). Proper Zn
-and Mn nutrition result in alleviation of stress under saline condition. Common nutrient deficiency under soilless
-condition: K deficiency affecting fruit quality mainly colour and blotch ripening
+It tolerates saline water up to 3 dS/m (mmhos/cm) and fertigation pH in the range of (5.5-5.8) is ideal. It is found to be sensitive to calcium deficiency, resulting in Blossom End Rot (BER). Proper Zn
+and Mn nutrition results in the alleviation of stress under saline conditions. Common nutrient deficiency under the soilless
+conditions: K deficiency affects fruit quality, mainly color and blotch ripening
 
 
 Early Blight of Tomato - Mancozeb 35SC 5 g/L, Mancozeb 75WG 2 g/L, Zineb 75WP 2 g/L,
